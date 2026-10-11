@@ -114,4 +114,7 @@ ACR/AKS gives a cloud deployment without touching the app logic.
 
 *Credits: the architecture is inspired by a public Azure-based RAG tutorial by
 [AaiTech](https://github.com/Sandesh-hase/AI-Powered-Investor-Intelligence-Platform);
+
+<img width="1822" height="1185" alt="image" src="https://github.com/user-attachments/assets/ca569e50-5dda-4b32-9752-839b6fbc5cae" />
+
 this is an independent, open-stack implementation.*
